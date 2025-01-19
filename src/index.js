@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Routes, Route } from "react-router";
-import { Men, Women, Kids, Newandfeatured, Gifts, Task } from "./components/task-about/about";
+import { Men, Women, Kids, Newandfeatured, Gifts, Task } from "./components/task";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
